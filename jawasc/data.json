@@ -1,0 +1,609 @@
+{
+  "metadata": {
+    "generatedAt": "2026-03-04T07:00:09.114Z",
+    "source": "Google News RSS",
+    "version": "1.0.0"
+  },
+  "assets": {
+    "gold": {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "sentiment": "negative",
+      "sentimentScore": 67,
+      "positiveCount": 16,
+      "negativeCount": 32,
+      "totalNews": 100,
+      "prediction": "Gold facing negative sentiment. Potential for price decrease.",
+      "details": [
+        {
+          "keyword": "harga emas",
+          "positiveScore": 3,
+          "negativeScore": 15,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Grafik Harga Emas Antam Batangan (4 Maret 2026), Hari Ini Naik atau Turun? - Pusat Data Kontan",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2FMTHNnb09vR09JZmlCUWhtWXVPWlJHN3lfc0lqWkl6U0FEQThhN2dtSVdPaDhkcUh6M1VpVHAzOGw1T3NrNjhIQmlNUGFYS3lGdGt0NWt1SmJpY2daOEJFQTBPV2VNMXVmeW40LXk2MUtmeDJUNWdXOXRCMmh6ZzA0WVJXS0tkUDl6amV2VVNXQVZSVi1mU1lndGRRS2QwbW5IcGpYQUtUUQ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:23:19 GMT"
+            },
+            {
+              "title": "Peringatan Keras: Harga Emas Ambruk 4% dalam Sehari, Masih Bisa Naik? - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRXc5WjU2NTJiallLVXdWME5TdVhDZk83Q0gyaVcya3dSNk1fMUJTX0VoRm8tem5IWGpCWFdRaEg1RllwUGpOQUxlc003STZpcmt4anpKeWpTZjRyNjRKSWkwRGR3U2lMZW5Qc2FzNXA0cEs2ODBSSVJZTzcwMFRXLXFNR3B2MzdxUnM4NGl3RmRRcmVYRnpSS3FEX0ZFSVpTVGZmaVBBNV9idFBkaDdmVFhCQ19NYVpfdXNHQzEtOHpBak9sU19yTDhB0gHPAUFVX3lxTE5Fd1Y3dktCRzJwdnIxZlRZU0lEUnA4MXJSNW1VRnNiSnpoVEMzN1B5T3JuSDVGa0NYMks0S2JVWkwxLWp5czh4bkhhajIteC14dEZqV0F0NFM2clYyY0xOMjRwdWNXLVBWU3g3VDNNaGlvaFMzWHpuRnpULTE5NHV2el9YYlJnSUw0ZUx3STdENUlTRzgzZE5pdWpiMjNNeHRBWjNOTGdpQzMyRkpBdnd6VmxWbENkNWt2R054ZFpYbTd1MkJpTmNzakJsbGVuMA?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 23:43:38 GMT"
+            },
+            {
+              "title": "Harga Emas Hari Ini 4 Maret 2026 Turun Serempak: Emas Batangan dan Perhiasan Kompak Melemah, Ini Daftar Lengkapnya - Radar Situbondo - Radar Situbondo",
+              "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeEw0WmRIZDdBeWNUM0xoVms5VkFQNUFsN1F0aXY3LUUwa1NXdVZyZ0xxZW9WZVZRa2EzRFZoOVBYbE5TM0pXYUJaeko1ZmFySlUzclBrN0dDT0dBVl9neGoyZDJHLU1BeVpqTjJCbnNqU1JjSHJtM0VQYUFMZU4xcGc3ODlMbjV2dzNJaHNEVUFHVG1NTDZlTktSWDV3WW4tN3k4MnlXcHdBaXpHU0tYTkpJc1RBb0ZaVjZsQU5lcVVjcUNZMFRQakl2UjRwaS1KWmVGYmxqSXpWTTgteVYtMHByNGZidENmbF9LUXNMVlpmRHRNeHlEbmh0alB6UmdnTTVj0gGIAkFVX3lxTE42NGFObTZWT2E5eTE5eXBNdURSbHZ3Y1JhcFQ4a0cyYm9jbHk1SE9jV2JlTlA3ZEtLZDFlLUpkRHkxSlNCa3V5ejZZOXotR2x4dkFkWXZFblNOMDZoSTV2WU5ObHdsRF9YaHlDYTY4dzR5eXU5ZW5YR0x0ZmpmQWhpOFJfeGFCUkxoa1VYRURLTmN4MVZycUlnNi1PNlBhTjVoU011TVdyb3lzYUVwRzF2SzBaWVZjZ0xtOXVsQzBSQ0Jjcnc4cjBxcFY5ZW01UjNMdGFmVHpWUlRUX2tzTFZadHo3SEFjekdrd29EdFpFUHExZXpGUlVlaFZYX0JCMDJiWXVvVFVlNw?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:45:00 GMT"
+            },
+            {
+              "title": "Harga Emas Galeri 24 Hari Ini 4 Maret 2026 Turun, Antam dan UBS Ikut Melemah - Medan Aktual",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDdYYmkxaVpvN2JzMzhIYk5WTC1PYXR4TFBmbS15OFRHVWh2M2xkUkM4eVdZVld4eHJyZV8tQnpKZ3NWa3IzSG5OU0RNQ3l5aFBzUFdNX3V4RWdPTkt3dTZteG9jZjdmREoyQTZpZm5QUG1uYnN3U0NqSEZ2cEdpMjlnZjlHZDIyQW5aQ2xfOEZDRDhmU1dGTkF6S1d5OE12djRvUnZ0ZFBMNlk?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 04:15:49 GMT"
+            },
+            {
+              "title": "Harga Emas Perhiasan Hari Ini, Rabu 4 Maret 2026, Cek Update -nya - investor.id",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSEJlRDBSMjZqcV9GQnhXajA5VkFFc3R4TkgwTEdCMk5zOHdQczctaFN0ek1jMm5tejViMG1nREM4ZU1qQ2pJMHNsYU9uUVN6ay1NdE14c213cDNLc0I1SjB6aVpocXNkRXg1bFN2cjVGSG8tS2dvYUVJZ2s2QlV0bnlLeVAyZ3JLMzVUamRETDRVZlZCVEE0S2JsQQ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 05:51:48 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "gold price",
+          "positiveScore": 0,
+          "negativeScore": 0,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Antam gold price falls on Wednesday (4/3) to IDR 3,045,000 per gram - IDNFinancials",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVNnc19MX05BWmltS2cxb0pnaUlQb3JjaEVHQUNUeGFiNUdqN0JNdHZRaE95ZmZZeEYybXhpdWY1WlQ5aENsMExwTmk1TmV3bUVvUFE5UEhGaUtISVNuWnd4UUNGekRIWlcyclVVWkhNZmlqZ3kzalNZc0x4YWd1a05oOVJudHJYLWJ5ZVdnZkdmd201NzRMSVRzUFNNenEwS2JnTVRTVk4?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 03:11:47 GMT"
+            },
+            {
+              "title": "World Gold Price Chart March 3, 2026 - Pintu",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zQmRtaWxGR1JXR24wSFpubVhCQWppOFRBUXhVU1FRV2VlMzg4Sm5TQlo5QkNTbnhDcXpxT2RTYW9DR01pZ29oWXdSXzZBWHhlWERQWVotYTU0UmZqdjZDTXV5OEJBSWFRdG9qU1RjN1RKa29DVmRzZEJaRmpBLXM?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 08:25:34 GMT"
+            },
+            {
+              "title": "Today's Gold Price Update: Antam and Galeri24 at Pegadaian (February 26, 2026) - Databoks",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaEZaZG9SOWdMRW5sVHJlekRNQ3FQUW5OTFloRDhRNE5jWUFWRzZwUkQ2Q3RvNzNwekNlYXpXbHhieVlXRGVrOGZtUmJfb3JISWVSTHRfY2FneFEzYWJ1RTRCZG9VVXRrR1Fsek92aHl4VHBlTTBLWXVtOGVIaDBUQXIyRlBaV1FCUkxHeHVRV2NrWVJmbHl4TndqT1lubnBoSEpsSHVUR1cySmdVV05CdXJOSFFTNndaQXBuZ1pkZ3VUckR3Mm9VWjdSdmdnNEFKUXNKd2ZKb2hUUQ?oc=5",
+              "pubDate": "Thu, 26 Feb 2026 06:23:41 GMT"
+            },
+            {
+              "title": "MacroInsight - Inflation accelerated in Feb26 on low base effect and Ramadhan seasonality - Indo Premier Sekuritas",
+              "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPZTFOLUFPZjhNRWtnVDFYcWh3bU1DVXlvZlR3dnJoVDVLU3k1ZEFJMzd3R2VnRUc3VjVZV3JNSENaZFNodG10SHhYTlBoc0c5WlZ6ZWd6THZZZ190ay1ObmxQZEpHN1JoSXRqXzI0bThYUkFMWmVINmh6Tzg1MEl0clVGVmIxYm82ZzB5RjhfeEc4WnVuVmg1blZDTmJoNTlfcUYtWXRjZndzX2ROdmFLQ0xYRWduSVRQU3U2LUhzR09vb3FaVU1TRTZ4SklqZFBQclowLUI5eUdJUVRwWjcxeXVkNEs0TWRqeWpYY0R2UEhTMWEwbXJrMEVkTXdkLXV2UWo1dXNDbjc5SldJZlR4ajhuV1dTeVdoZURNVmVraVgtMjZvWFM1TlNvcmNEeW1lZnVPbnlZSWpHTnU1QlJHN2J3bDlsMzZVcTdfeXJMeVlfZUNsWVJqUkFPbWdIY2xITlZzX01tNXRmZGhsT2lubWl4ZDZLNXZaNnQzLXVnSDVocXhrcjE1bmE2dnozUHhhd3MtRGhKLWlld0h5V3Jtd3FneU4yUDRYRE5IMUM5OENYVUF5enFfTkxkUk5HTDdIWkpjY0VlX0N1UVRGWHAxWGNaZzVoMjUwVzZMXzJhWk5zd283?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 02:17:00 GMT"
+            },
+            {
+              "title": "Antam gold price today, Tuesday (3/3), falls to IDR 3,122,000 per gram - IDNFinancials",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTF5NEJMUlVSSjZXZVBUdWJ6UUJ6eHlTa2k2V01haWpaYlFvU0FVVDBRRGhWU2RoYWM0a3lvUldTTGJYaVFxbWM4cU9fNWp0VXNVQlVWSUFHdWVEdFJ2VDVDMDRIQUdtLUFoZzZyVEtWdF9uVFZmMTRld3JnRDhjVGJVNnRhX213NXUyMlIwVFpDM240dGFDQVV1YVVLZjQxd2RqTmJ4SnpOQQ?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 06:38:38 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "GC=F",
+          "positiveScore": 3,
+          "negativeScore": 0,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Emas dan Perak Jadi Aset Paling Bersinar di 2025, Cetak Kenaikan Terbesar Sejak 1979 - kontan.co.id",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDlkM3Bfb0ttUGtWOG9FdGRXUDhVSTNoLWcxVHZwWTlfb3E4NzdMQ0FKaEh4N2EtbjhvN2RIVVRwWWkzSDFfRVN0cFhVTElFczZTUk4xREtyVi03UnRlSG1pNHJqUV8wakJlRHJCQUtnWklFSGZIMVZ4WS1MSXJWTjdZa3JBaU8zQlY5NTlPek44WUl6cjBvS0stTng5cmpBZ2pEN3VWYUNUd0RIYUEzTHlUTlF5MDNxYWRxNEFUSFbSAbMBQVVfeXFMUEpuTExILW9XdTN0TWt4bm1FcEp1UVVEeTIyT2M5QzJBZHVaTE5ORVNUTlM5X25HMnFTejBYckh1OTAwZ0VrMDhtS1pDUVdiYW1ybWRzeHdxbFcyYzNqaTBQcTU3b2k2U2E5MGp6T3pYcG1KaXNjMW5rTHJJNXF6ZkpJWXpNMkNjaEVrX2JQWWpfajBwT2hMQXRuNGhSbjZUOTRrbWN2bWtCTFc4NnZIS0VPR1E?oc=5",
+              "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "title": "Indonesia Mulai Penyusunan Proposal Pendanaan REDD+ GCF Tahap II - Forest Insights Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmxFcEphcjNXaV8zX2VnM3JtdVljLW5hVHcyV0E5aTB6U040YkNqMU51c3o0blFoTWNMTktORUI1Mko4Q0Nzd25NU3JYbTVVVTE4WkRwZ3R3THQ3SlBYNVJUaUFmZkQzTC1rRTBabml1djFQNUxEdUtPQlpsUnUzV0poVlRlX2dBUDdLWEpVR1RlYmdo?oc=5",
+              "pubDate": "Tue, 12 Aug 2025 07:00:00 GMT"
+            },
+            {
+              "title": "Pembaruan pasar saham: Dow, S&P 500, dan Nasdaq futures naik setelah komentar Trump tentang Greenland, yang memicu penurunan tajam terbesar sejak Oktober - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrSjJJVm0xMHV0M1ZKdkRxcV9NQUVfN2E0QWFwMlBIUUVndzBtZEZZX1RmaE9na184UDVLbHVFdjZFMjlWYlAxOUFyZFhTX0VWOTFDa0p5Z0dEMUJQYmtrclFn0gFrQVVfeXFMTzR1YmNDV1dzTS03UjBiZ2xoczFDVThvajNNZ0czTFl3ZE8zMEtCaHNjUFJfdDRXRFRBY1dsR0lIWTh0Z3dCWnpnWTlPS2FqaHRoYTNKOG15R3VoTmZGaUQ5bjNacWlfekpjV1k?oc=5",
+              "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Indonesia Kantongi 103,78 Juta Dollar AS dari GCF untuk Reduksi Emisi - Kompas.com",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdDFhTlU1LWtMTEZEX3YzclB2QVk1LXYxUHR5Z1BXbkpZMDF3Y0lXb084SlV1ZFhjYjRvcGFsb080aWM0Wmw1Y3dMeDNwcTlSenRrSWRfUjQxRGEtQWwzTXdRQmpuWGx6b3ZQYU1tcW1ZdWpMQmJNa0pXNUZWckw0QjhIM1I3Y1VKUF9uNnJRT0ZWNUVuRHE2RWlGWXRpQmtkU01GYkcwWlJxSzdQbktHakhUOHNfXzVBY2Fz?oc=5",
+              "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT"
+            },
+            {
+              "title": "OPINI: BPDLH dan Pengelolaan Dana REDD+ GCF - Bisnis.com",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRVl0eDZPUW9sa0c0cHhYSFp1RHczVGRCWE91a1VDd1p5YTRidl80YjdST19fSWFMa05QU2s5U2ItM1R3TlhmQ1k5VFVibkY3YUFGSkIyQm1kOHJ1bXEzd0MzZlFFUVZCa1REWjFGRThnTFdLOEY4UHVPenhRQ2FNZGo2eDN4eDhlWU1CaGZQM2RkODhWZ3lB?oc=5",
+              "pubDate": "Wed, 26 Nov 2025 08:00:00 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "XAU USD",
+          "positiveScore": 8,
+          "negativeScore": 4,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Prakiraan Harga Emas: XAU/USD Bertemu Pembeli di Sekitar $5.000, Tetap Tertekan - fxstreet-id.com",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM1lyMnFfS0VYU21ISjBNMVNxNFRNUWNLSVpTekhMMnR6YXN2bHY2ZmFkRi1QMmU4RDlBa3RqbXozaGFiMkVfVkk3TUlKTy1DeElsS0c2Y05FUVRyYjdvNE1qaGowdVI4ajlHTkxVOHUyaEQ4b0VLbjVwci10dnFfMUVFbXJQR1lJSEVGRkV1Rno4UXdjREk4Y2FSdkkwWWl3aXVMeUpzTW1FZ1EzNjhuYm9nUGc3d19Ma2Nubjd6SFdBdzDSAcgBQVVfeXFMTzlhaTNiaTE3R0hvVWt0RWVyQlZ2U2tURXZEUGlqaDFHSzE1T2ZKYW9JcFhQdUtaVGVDYkZFcGdlM2UwbFZBZWhBWFo2Wm5xOVF5dk9uZERmR1U3VWhJSkNyRFZocFU4bVN2TVp4MjVyWHdWS2pHbmdaVk9JS09NR2xSdFFuM2QtSkNtaFhVbzVVNDQzdjJxWFlqRmNLdmxZMjFaVmctWV9sY1NZWG1iTTRoWEhKSTMxOWEyZGhWLTlUT3J4TmdHVnM?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 16:59:50 GMT"
+            },
+            {
+              "title": "Sempat Turun, Harga Emas Masih Berpeluang Menguat? - MetroTVNews.com",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREVKVEpOb2QzUDBkMkF2Vkpkc0czS3FBU1d2bGx2cEpadldwOWdtZFFBUjg5Z0JwNjhOcVFJZzJwTDF0WC12R3FPSndFaS1yTk5YWXY1ZU93TVlOV1NSaldfaTlZcDNRcFBSa0c2SVRkSVRtTjJSb0VaQ2RMdG9UN0ZMcVFieWFRY1B6dU1KblRuY2t6?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 05:58:57 GMT"
+            },
+            {
+              "title": "Emas Terjun Lebih dari 4% seiring Imbal Hasil AS Melonjak akibat Eskalasi Timur Tengah - Valbury Asia Futures",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPekJPV3FtdlBRXzBiLXdfaFJJTHBPQ0lzMkRZcks0c3ZEUndnTlhvb2F6QnpuMnhkRGlBOHZGYWk4aXA5S3NzaF9NaUlyWGQxczBjbThKeFBDUFhPUzBnUktVUkdfUzljRDUybE9uOFBMOV93VlplV1daTmJxaEx6VnBwQWd2US1henlSeU9wWlVFLWp6VHJjb0FXUWozaWR4Xy04Z3YtOUF2V216alBuMQ?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 21:34:28 GMT"
+            },
+            {
+              "title": "Harga Emas Antam (ANTM) Logam Mulia Rabu Turun Tajam, Emas Dunia (XAUUSD) Tertekan Penguatan Dolar AS dan Yield Obligasi - Sinar Harapan - Sinar Harapan",
+              "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWXZCSnk2X2I5ZWNJTmN4T1gwZnp2TFlGOTVvWEloVXk1dVctajlsTUtiSFBPQTZlc2M0NFpha05FNldIVlVMNXp4eGNOUGpBVzg0eERydE1UcVJmU1EwcFFXbTJoN2RVd2ZyNHc5WVkwb2hob2JOMGtOdzY0Uk5GRklFenI2NDJQdVJCVnBuRVZyaWNXc3VhYUNmUkZVaHlnOTJxZmg0UWp3LXpibGhSX3AyaVV0X09ZWWlFMDFMazA3RFluMWhyVkFpeG9qZkVoYTh0d0pkN1BBZmE2S1N0MWxQX0ptdi1SM3hLYzZKbFU0N3JkNEHSAfsBQVVfeXFMUC1IT3pZbVNNWUVIeXlzNmFnUER6RzhOc3VaSE8zcmoza3hOckFGNm9oa29vbjc4QTZhQXJkNGJ3RllGUDV0ZWRxbWVsY0djMWhjSWhiQ3d2Mms3YU04elBDQnNqcmI5bW1YQVdoeC1SZHlPRjBPZlltc3dVQ004bGhqMjI0eUJiZHVmTlVvWGtDSWhyZGh2cXRnZjJRakNvZFF0X1YxVjlOMXU0WFlqQWJzQnptaDVUb2hhZ25iQ0JEVE40amFCeTloOUppNEJJemNOdjNiUW1DclJiMmFFbjVjOUxodkpWeG1pUUUyWERqNXNRdVpadmVIdzQ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:09:45 GMT"
+            },
+            {
+              "title": "Prospek Emas Masih Positif, XAU/USD Berpeluang Menguat ke Area $5.386 Pekan Depan - Katakabar.com",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXd0YnJabU5HelhFc3B3bjdwZXU0OFhENHpfaFcwcVA2TFFsaTA1eTVRMXE5Vl83aUxhY0FkRzg3S3UybDBZVUVFcDlVa1Q2V3hWUmxkeF83X2dNa2NIeXZsN2t5dHE0OHhoVjZvMjNUZWoxR05Ec0ZNbXJtX0prdGFfa0dOX1g2ODBxRW9VMHo5aDhEMVdnaElJLVU0MDhMUWtxLTRDdXEzaklZNlhGYWlrNzlnNWZi?oc=5",
+              "pubDate": "Sat, 28 Feb 2026 05:59:00 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "emas hari ini",
+          "positiveScore": 2,
+          "negativeScore": 13,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Harga Emas Hari Ini di Pegadaian (4 Maret 2026) - Databoks",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWtjVEo5YWNWcUNFSWUwWGp6dmhMd3RycjVqOVRDa3I1X19BeC12NjNSb1JlMmRVUDNjT016ek1oUld6elpTWEJfWHotZ0FFUWFzcnNvb3pwek56eFVkckdVY3VQSWNrN09LNkV3bE1WVlZuX2MtWWs4eERCSkVCd2hhRFJRbUdpdE53MWJyLTZabnEtVHpESURjWTdIenB4bDJqMzN4Y2EyVFoxTW85ODRrb25Wa1U?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 06:11:22 GMT"
+            },
+            {
+              "title": "Harga Emas Naik Pagi Ini Usai Kemarin Ambruk, Mau Jual atau Beli? - Market - Bloomberg Technoz",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXE1c1pibG9sN09xQTlEOWV4U09EMVV4RDZyMmtsSGZQRjByeV9RSUd2dkxXT3Awblh6ajQwMTVNTWRCVWV2dFlhZElXY1g2bzhCMUpSQnpWY0dCMkRuWFkzZU1CUnpoOWJTQkRqSG5qRUoycmFsb1ZmSF9UaVVXOHRxLUxMeEVIcE5aazJ2QVA3SFk5bktoTC0yYUt5Q2ZDVUM0Ujd0UFRhbk9BQjVjbXBKN0NMZw?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 01:34:34 GMT"
+            },
+            {
+              "title": "Grafik Harga Emas Antam Batangan (4 Maret 2026), Hari Ini Naik atau Turun? - Pusat Data Kontan",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2FMTHNnb09vR09JZmlCUWhtWXVPWlJHN3lfc0lqWkl6U0FEQThhN2dtSVdPaDhkcUh6M1VpVHAzOGw1T3NrNjhIQmlNUGFYS3lGdGt0NWt1SmJpY2daOEJFQTBPV2VNMXVmeW40LXk2MUtmeDJUNWdXOXRCMmh6ZzA0WVJXS0tkUDl6amV2VVNXQVZSVi1mU1lndGRRS2QwbW5IcGpYQUtUUQ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:23:19 GMT"
+            },
+            {
+              "title": "Harga Emas Hari Ini Turun Tipis, Harga Perak Merosot Tajam - Liputan6.com",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkNCZmxzT2hidkJENHJOX0EwNS1PS3JqT3R0Y2xnWGcwalJCVVhtTTNjS19LU3luWUNkTmlPLTdnZ1RqVFhPbU5nZnVqVldrTTJlbkhGM2g0VUVWQTR1UzVLQ0VkdUFyM3dGWC1uV3dNQm1ZMHVNcXBxcGVNUWh0VlFJSnNkZjRfRkVQZXItbFF1ekJKMkxESncwY2xhdWNXNHZabA?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 00:00:22 GMT"
+            },
+            {
+              "title": "Update Harga Emas Hari Ini: Peluang Cuan Investasi Emas Saat Pasar Fluktuatif - BeritaSatu.com",
+              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3NnOTJwMkYzMnFhY2FrQy1TTWR3NFdWMlF5b20tbFdxcGxWVEtPLWtidDltOHUxdXVWMWNkd0xtYWYwZVlfc01hQ0tJU2o2YmlHdlRzV2VxTXpzOUp4OTM3XzY0dDlNX21DSjlvM0l5S1FoM0VjaVhsRjNnUDFaak9lR0l2cmxpUjJXN3VBQUpXLWl2OU11dHU0TEg0OHRLdnNfNnc3VXp5VnplYkN1U2hOTkE3aUgwQTFDWkE5RzQtbGJBR3k1U1N5QQ?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 08:23:16 GMT"
+            }
+          ]
+        }
+      ],
+      "timestamp": "2026-03-04T07:00:17.870Z"
+    },
+    "silver": {
+      "name": "Silver",
+      "symbol": "SI=F",
+      "sentiment": "neutral",
+      "sentimentScore": 0,
+      "positiveCount": 23,
+      "negativeCount": 23,
+      "totalNews": 100,
+      "prediction": "Silver sentiment is neutral. Sideways movement expected.",
+      "details": [
+        {
+          "keyword": "harga perak",
+          "positiveScore": 8,
+          "negativeScore": 7,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Harga Perak Antam Hari Ini Dibanderol Nyaris Rp60 Ribu/Gram - MetroTVNews.com",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1RSdjBqVjRZazhlVTdvZ05hLVNKZ18tOGNmUjQtekVoSkVLdzVMWE9BTktCMmNTSjd6SVhKejZaVGRUcVFCX28zY0pQVi1IbzVCNFdSUU00WElJU2FULXFKVHFmMlNrT3VNenVnMUVHUmxJUEYyRWJIQU9rY216RzdpUGxHNEpsaVVUbzBxejB1T2VUUlV2TFl5N0ZKY196UDRZ?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 04:10:57 GMT"
+            },
+            {
+              "title": "Harga Emas Membara di Tengah Perang, Tembus Rekor Tertinggi Sebulan - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXBUTUVuN19LMUpfVlZkdWt5UmYtSnQzX2FZbTR3NzZKc0JMY0ZaX2NPVE90RFo2VWRHZjB0V01weEZMWjE2cjhtNjE4RzVqeWJhSUgzYVBRb04yVzdWRW9zV1dPVF93NElBSGcydUcxSDdOc1lnOFJ5cTM0REtBTmFCZkMxWEZham8xTUpkeHNwZTRySlJGbmtoQ3N3cldyWmFKSGlVWVFZZEJFU3c4dVd4VEctVXRBNmZ4YWU4NnhDcFNjTVVBOEQtbm8xQdIB0AFBVV95cUxQdjM5b3pjYWl6QVM5SUVKbEpfZ1cxNThsVXJNR1FERTA2eUZaVlFsdk9nT0x0dU9MZG9FSXkzZ1haeUxkb1Q4VFVTWUpHcEV4ZXhRYS1kd0kwQ3FsekdONFVRUlNON3JyeFhnUjVMbS1xTkh5N1NJS2FxQ0w3TGJqZlk3N0RidkdSVHJBZE8wMi1TdkF6Yk96WERHeUpKakg1cHNIbkZZUHZUUEVPVTN4b2pEbGV3TFhpZlF3aG1iXzRLaDB3OUpKMHFsd280UG5N?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 23:42:24 GMT"
+            },
+            {
+              "title": "Harga Perak Kembali Perkasa, Pulihkan Posisi di Level Ini - investor.id",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUw5bUI0d0hjeFJ1UjJLT29kd2M4aWxNQzZJRUF2a1ZvemhDTVh5QWNpenF0Uk1VTUczNGRNeWJBeGZZSU54RGctRUw4UWRXY3RYYTloNXBOLUt0bFpoWTJxTmxHQm5KSUw4TGFocUJuT3d6SHFFUHZPQ0x0aS0zSklvN1VCNGMwYy0zaFMtOHJFQ21S?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 00:22:22 GMT"
+            },
+            {
+              "title": "Harga Perak Hari Ini, Rabu 4 Maret 2026: Turun Rp4.200 - FORTUNE Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEZ4QW1PZXp1ZWtONUs4LVNTTnhNQzJ2Vk9yR2s2Y1Bhb1FWM0JCbUFzVnpUbzROUGV2MEhYNkpsZjQ5Z2ppQjdxa2pHVWJGdm0xS3JVNVQxZE5LOXZ0a2N5TDJtWkh1YnpkTnpJcGdXRUZUdjFLS1VlUW5ZTTMyb3FBdjR0Qno4bWxmbTZVUFcxMXk1QUlPWkZ0SmZYbTJ4OUhJRXhBOXVfTlk?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:40:29 GMT"
+            },
+            {
+              "title": "ANTM Ambles 5,9 Persen, Harga Logam Mulia Rontok Beruntun - KabarBursa.com",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3V4eUs4NkVta25nSXVnQ2pPQlZ3WUhYRVVfMkNzNHFkZzlTc2ZnaWM1Rng3SThmLUtUNy0xaXdoVGVNVUNBdHJQb2E4SnlyaDI1SkdyNzdZTW9QTmhpWkZGSU1ZZmwtbkpLZ0pnb3FkeERxS3J0M0JvdFpGR0xuVFpCOVhPak9panZqYUNJQndCZGxVSTJwaV9ma3ZrTW8?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 04:21:00 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "silver price",
+          "positiveScore": 1,
+          "negativeScore": 0,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Silver Jewelry Price Today, Monday March 2, 2026 - Pintu",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlU4dnJXNnBNZ29DTkI1OUhxOVoweEJBYnNDNnZfYjZVRGVEWWFpZzAySVhWS0xzTG52YVYycHF4enB5T3UzUFJiRlROT2N6SVN0WHF4N0JLQTRQQ2Jjdm1JTUI5VVV3R3pHeWtRbVk0Mmc3c3hIRVFtQ1FHSkllOWUtYU5LRWN5bEE?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 21:24:20 GMT"
+            },
+            {
+              "title": "3 Silver Mining Stocks That Could Keep Surging - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQckprRTBybmZ5VTQwck1oY2s1b1IxT2wxNXVxXzg2b0tISS12YVNkUUNjQmxwemVMdFFxcGVMa2lhUlJQUERERkd2OEhyLU52N1RTSW9QcU5LNGdCU0dqVVh5OFY1TUJuVVVoZkdWc216a2N2SXh0Y0d6QU9ZeE1mRVBkeTI0bHB3SXVReG5FbkxubEVDUVF4WnVNamZEUENYMzk0?oc=5",
+              "pubDate": "Thu, 26 Feb 2026 00:03:00 GMT"
+            },
+            {
+              "title": "Silver Price Forecast: XAG/USD faces consolidation risk below $90 amid extreme volatility - TMGM",
+              "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOODZnVTZCRm9rYjBXVUVqdEVLMXVEaGZoMzY3N2Rvd3Z5NmVHTlNVSzZHZmNUMmMwLWYzYUtKc2F2dUpKMmE3ZkZ2bFY5U1puMzNCSVlIM1NZQjd4MTNsVzRkSHlMS2ZPRnk5cGZkME44a1paaUVaR2NPMjRYTEFwY1hobGdybW5wdG9wS0IzQXpfdElLUWxWRDRrTUdLNEJlNXlYWnF2TFFFbFJ6MEtnZzMxZldVSDdQOHhyb1MwSXYtbUFxX0JhVVIyaGVVY0tXNE5uUEs5VFdiRlNnMFFKTC0zbkVIY2hieF9FXw?oc=5",
+              "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "title": "World Bank's 2026 Silver Price Projection - Databoks",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGdqSE1kdDRzSlJtNGtrekxKRjFycDJvS3dVMUJ6eGczb0t2bWZraGl1TWVPdVhBZDl5QXJJWTdxLThuU2psN3V6c3BZNWNBZW1EQk9ZejRnY0k2bHRNNjVEZkhyUElUVWd6S0RvX1VwTzRqN25zb2QwalRBcmdIemZsRGo4WXFybVVyZUNVbTV2NFAyNF9DUm9qUTVKaWdSX0FhamlhOFNGUWM?oc=5",
+              "pubDate": "Mon, 17 Nov 2025 08:00:00 GMT"
+            },
+            {
+              "title": "iShares Silver Trust (Ondo Tokenized) harga hari ini, SLVON harga live USD, kapitalisasi pasar, dan grafik - CoinDesk",
+              "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KNzNqX2QyQUlBWTc0b2FPR3ByWTVJQ0lZaHdNRmRuN3A1TmI5RDlUWEl4QzZ3dzFOZl9ZS0RCdW9PTENkVnkwOFNKbVBNVHp0?oc=5",
+              "pubDate": "Tue, 24 Feb 2026 19:37:15 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "SI=F",
+          "positiveScore": 1,
+          "negativeScore": 1,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Emas dan Perak Jadi Aset Paling Bersinar di 2025, Cetak Kenaikan Terbesar Sejak 1979 - kontan.co.id",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUDlkM3Bfb0ttUGtWOG9FdGRXUDhVSTNoLWcxVHZwWTlfb3E4NzdMQ0FKaEh4N2EtbjhvN2RIVVRwWWkzSDFfRVN0cFhVTElFczZTUk4xREtyVi03UnRlSG1pNHJqUV8wakJlRHJCQUtnWklFSGZIMVZ4WS1MSXJWTjdZa3JBaU8zQlY5NTlPek44WUl6cjBvS0stTng5cmpBZ2pEN3VWYUNUd0RIYUEzTHlUTlF5MDNxYWRxNEFUSFbSAbMBQVVfeXFMUEpuTExILW9XdTN0TWt4bm1FcEp1UVVEeTIyT2M5QzJBZHVaTE5ORVNUTlM5X25HMnFTejBYckh1OTAwZ0VrMDhtS1pDUVdiYW1ybWRzeHdxbFcyYzNqaTBQcTU3b2k2U2E5MGp6T3pYcG1KaXNjMW5rTHJJNXF6ZkpJWXpNMkNjaEVrX2JQWWpfajBwT2hMQXRuNGhSbjZUOTRrbWN2bWtCTFc4NnZIS0VPR1E?oc=5",
+              "pubDate": "Tue, 23 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "title": "Pemkab Barito Utara Luncurkan SIF Pintar di Kecamatan Gunung Purei - Berita Sampit",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWVhZ1BXbmNpem5jNlhRa2JQUWQ5UjBwMWwydFh2X1NkaTByUVRGZllvWUxuQWVlSm50X1lxMnhrVFpVUkR4VVFqcFZKcEhmTzE4SE5idVRLSko5UFdPVl8zSnN0NzRGYUFDbGpYb1ZoMlZCc1BsQ0pnYllEVHdmdmVYUXhZenk5dTE1LThpYklGN3Znb21FcEpLZWEyTXhBYkxsZU5R?oc=5",
+              "pubDate": "Tue, 02 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "title": "SIF 2025: Dorong Iklim Investasi Sehat, Wali Kota Solo Pastikan Zero Pungli - Espos.id",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREJ4WW5jT3dfRUM5bnBVaHl5cXQyREhfZW5CeWVMdHVIQmEteWNmU2lTMGVwcUxkOWg2SU5kYzhRNmdEVW9aMkNjZ2pKN3c1TGJDTFg1bXQzWWVicFdYNGgzWDlZUkd6cnpaS0M5eVFuMXRsOXJ0VEhZekNzMWtsd3FlUFNQNE01MUQyOU5uUTcxMVRrdEM3MUpTSUcxNnNwQnk5MDJCQW85QdIBrwFBVV95cUxPdnBUOU85dWdVaUwtUHJ1aFVyRjBDXzVDQ2N1WENTcThWUEZ4LUtlWEpzdEoxWGZnNktrTEt3Tzdmdll5ZkFEaU10eG9YSmZQeHBsdnZ5QmZGcDd3WmlNamhZblBIeHpKc0tNLUt0aFBKcXJkNG55bkN5X2VySmpwVmQ1UlhYcDBxUW5wR2owOUNoS0xWMzJORUZjNGREU1JoM3ZFYVhkOU1uX0wySDVv?oc=5",
+              "pubDate": "Fri, 12 Dec 2025 08:00:00 GMT"
+            },
+            {
+              "title": "Semen Indonesia Foundation (SIF) Lantik Rektor UISI Dr. Eka Ananta, Bersiap Bangun Fakultas Kedokteran - Radar Gresik - Radar Gresik",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWQ2dXoyNFNsX2RxYlhQSXl6c3NaZnFwZnNraHdsajNrU1pXaHZGN0lGc29VcTBoZ0I0NVRIaWZtM3haeDBhd2tScENmY0Vva19TZ2xDOUVUZDg2NVdZWDFKR2pxS3JXcW5wa2ZOQjdKdGVUdzM2VzhYbkFEZVpYNkh4Ylo5OU1wRVZSQmlrdHh6ODVwQ01vNnByS1MtY0FhT24yRjIxQU14Tmh6U2lRMk1fS2kxY1FOMUdwVENOd2NEM1FRY1V1SXlwMlpYTXJ1NU9GTk5ncVZJYU9DT2RDOUZxQnJOZ9IB6wFBVV95cUxPTl9MYUd0NUI1T0c4OTVyZXM1VmMzRC15Y051dzgyejdmZE5iVTdONGVCSUQ5cUtMQkFCLXFzdGxrTzhISXlrOVc5VHZ0d2ZlUUNYRUNjNkszV2tvYkMxOU1SbFZtTVFHQ3FIRFYwTmlxQ1BxZFIwWHFVelpFWVlQcU1SVjBNUE5UaHR6aThEWVdMN05tTjYxd1hBTkxvaGMwZWVrOFBNU1B4X3BOOEJwWWhVdkk3TjlUc0tKSEpXSjl4Z2EteUlzREZocXpxRTRtOFhJNEpnM1VqNWRnT1FxUWp4V3RWREVGRnRr?oc=5",
+              "pubDate": "Thu, 11 Sep 2025 07:00:00 GMT"
+            },
+            {
+              "title": "Polda Sumut Selidiki soal Oknum Polisi di Kasus Pembakaran Pencuri Ubi - kumparan.com - Kumparan.com",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUk5Iam5meUtLTS03YUhib2dzdlg1TlNvc3hVWTdpaWZGUlVjQVRHemxUSlplRFpXelpsTUhhTlQzZGV5bzV1eHczdFl4Q1BwRlFEOXJNbmZlNXJ5NFpUZTlGYnFEbUpZNk9TQ1BIcll1MzhtU3lDUmt5M29JdkxZSU1Qa01kTlNmcTJOQ2NTU09KcmtIVlBsSlVxUml5Z0xwTG1JMVg1d3FiNWtKR0d6ZzE1aE5uNDDSAb8BQVVfeXFMUHU3aEFCbDU0cXN4akVNOWtETmVERURGSzdvVmZSTk1VN3o5N3BxOE1vQkpzOUp0Y244SlRyRWhzTENSTHJQOUJ3VV9YX3RDODI1NVBfX0NsRGtET0p3ejZfNENNbVdwaXhrd1FuMU9qQWdSOUlpZG1JMWZURlh0bWM4WkZEcmdIRVhnbmkzUGNiVC1jSjBJQjJJZUxFSGFDQldpUFlYWTNOcTFlZzhtSjRUY0pIVDRPNXhBQVNpRHM?oc=5",
+              "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "XAG USD",
+          "positiveScore": 10,
+          "negativeScore": 4,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Prakiraan Harga Perak: XAG/USD Anjlok 10% seiring Penguatan Dolar AS - Valbury Asia Futures",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMHJtalcta3lhMDNMQ1JuSzlKdV9tcm44ZEZSVkN5TUZfMkQ4Y2FoZWFKbjhJTFFPbXduNTREZ2laam94N3B2UHdpTTFiUmd5MlFsY2l0UEtONzA5Qm5RdkFHLUdXQnU1bFZfV1dmbm9fak5xM3lJUGhvMEpGSF93enFiUzhMQnpmX180ZW9uUHV6VTNRMEdZ?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 18:08:29 GMT"
+            },
+            {
+              "title": "Prakiraan Harga Perak: XAG/USD Naik ke Dekat $85,00 seiring Perang di Timur Tengah Memanas - fxstreet-id.com",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0pJVUZZQ05USmdJMWVBRHJJMl9mb0RLcy1ZcVNRYTJURy1oeGpRYjJTbEx2ZThzNW5MTUNEcExuOEtLVDdQeFAzMXJsMUFRRlR1cVViUDFHYnN4VXpXZnRLZnAxQ3lRSkdIYmhfMExSeG84YUpjS2NQQkpmWmtIRVgxOUROaU1LWnFtRXcydk1obVJQOUFFY2VuZ2VLVVJJMlRJOHF2eEZkdVNDVjZfQ19ZM3ZuamNzN1JtTkgwbGQyamZ5Yi1wSnlJZU5qUlY0d3YwNdIB1AFBVV95cUxNN0pJVUZZQ05USmdJMWVBRHJJMl9mb0RLcy1ZcVNRYTJURy1oeGpRYjJTbEx2ZThzNW5MTUNEcExuOEtLVDdQeFAzMXJsMUFRRlR1cVViUDFHYnN4VXpXZnRLZnAxQ3lRSkdIYmhfMExSeG84YUpjS2NQQkpmWmtIRVgxOUROaU1LWnFtRXcydk1obVJQOUFFY2VuZ2VLVVJJMlRJOHF2eEZkdVNDVjZfQ19ZM3ZuamNzN1JtTkgwbGQyamZ5Yi1wSnlJZU5qUlY0d3YwNQ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:27:35 GMT"
+            },
+            {
+              "title": "Prakiraan Harga Perak: XAG/USD Turun di Bawah $94,00 di Tengah Meningkatnya Permintaan Dolar AS - Valbury Asia Futures",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzdXa3pRSEY0Nk44anhTaENHWnJNNy04LVE1dVR1LXhkQ3NRa0pkaVdDX3JqYjNCVk1ZZkpOaE5GWW45cFRRVE9rOTlQMEd0Sl9qQzN0U2tERDRHWkM5TFhuQkZNaUJwRDJ3T1BaQVhHZnc4cTF2anZnTG41TVJBcFY5V1h2emNPMlpUbC1SVExLRnJHUkU4SUtUdDJWRjA3bVA3Wko1S05aWnFBUFc0QXdHRWtudw?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 14:50:58 GMT"
+            },
+            {
+              "title": "Prakiraan Harga Perak: XAG/USD Anjlok 10% seiring Penguatan Dolar AS - fxstreet-id.com",
+              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUpkLWRfd0tXWnBDbWRnc0pUc3l4bC1CbXRRamJvWFp5bWtnbUROdWFtVVlEZnFxWjluZlJLbVlSQnhjei1fV1k5bFllV3JTaHp2RkRydDVaWFVlY1U5OE1nT2ZGamE3YkxUVHAwckdFTXVMSFVDQnZySDdacDlvS2RQS0Zsc2pMYm1ycmU4RkVacGU2eXQxamIxa0p3cTRQRG9pQnVuZnZYNXZueFpudHVVZHA3Tnhac0xVdjNFVUFWOUpFVXlsREYtTVl0VC1uVENya1RleG1ya3YxT3ZNSmNmam3SAeQBQVVfeXFMTXFKZC1kX3dLV1pwQ21kZ3NKVHN5eGwtQm10UWpib1haeW1rZ21ETnVhbVVZRGZxcVo5bmZSS21ZUkJ4Y3otX1dZOWxZZVdyU2h6dkZEcnQ1WlhVZWNVOThNZ09mRmphN2JMVFRwMHJHRU11TEhVQ0J2ckg3WnA5b0tkUEtGbHNqTGJtcnJlOEZFWnBlNnl0MWpiMWtKd3E0UERvaUJ1bmZ2WDV2bnhabnR1VWRwN054WnNMVXYzRVVBVjlKRVV5bERGLU1ZdFQtblRDcmtUZXhtcmt2MU92TUpjZmpt?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 15:35:34 GMT"
+            },
+            {
+              "title": "Prakiraan Harga Perak: XAG/USD Naik di Atas $95 di Tengah Perang Timur Tengah - Valbury Asia Futures",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMFpTNlpYeGJNdy1oUGdITEppaVJiSmF1TnkxMGNTOVA2dkZzMWJsWjlibWJRWkdicEdmWWdPSXp4VjZfVVJUR3J1bFlPeUw1VnVhcmtwUDRXMzBqN2JEcHRMcTFxVzFocEp2Y1lUNHJ5SUFKeXgwOFBsODV1aWVZa1VEa28zRlZ5eWQwaG0wNWVVUDduNW1hRW5Bakk2TFU?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 13:57:04 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "perak hari ini",
+          "positiveScore": 3,
+          "negativeScore": 11,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Harga Perak Hari Ini, Rabu 4 Maret 2026: Turun Rp4.200 - FORTUNE Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEZ4QW1PZXp1ZWtONUs4LVNTTnhNQzJ2Vk9yR2s2Y1Bhb1FWM0JCbUFzVnpUbzROUGV2MEhYNkpsZjQ5Z2ppQjdxa2pHVWJGdm0xS3JVNVQxZE5LOXZ0a2N5TDJtWkh1YnpkTnpJcGdXRUZUdjFLS1VlUW5ZTTMyb3FBdjR0Qno4bWxmbTZVUFcxMXk1QUlPWkZ0SmZYbTJ4OUhJRXhBOXVfTlk?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:40:29 GMT"
+            },
+            {
+              "title": "Turun Rp2.900, Harga Perak Antam Hari ini Dibanderol Rp56.200/Gram - MetroTVNews.com",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSFFIUEhlZmg0dTVqbGRVcERrMDhWaGtRMnFycG5BNDRFLUc3LUlkVVBFMHZsT01MNHdMZTc0aFdzWmprSTlJbnpyUV9rMkZXYWpIanYtQUZycVFaSUFBOURjX1VNZkQ5eVNEclljMzl4Tlg2RXZrVVJBSWFjOE1pSVRLWnE0dE91QmFha2ZrWDBjZ0ZJYldSeEtnYTZ6Ymt3ZzNwNDJoYUtRaW8?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 03:53:41 GMT"
+            },
+            {
+              "title": "Harga perak hari ini, 4 Maret 2026: Harga perak anjlok. - Vietnam.vn",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsbjVvMTJISk9lMnJ5TVVtSERYTnBLMGphaVViN09qd0FCX2FzcENZSktoOXl5WTNrOE5zZEF0TzI0UFFuT0Y5UEFvRzluY1JXOVpqTzA3VE8wRE1BbVZGNTdUSGd5VnhRNjl0dXMwMA?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 22:07:40 GMT"
+            },
+            {
+              "title": "Harga Perak Antam Hari Ini Anjlok Rp 4.200, Ikuti Koreksi Emas - Liputan6.com",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVXZRb3hVR2xyMkdlNHJmMVhCM2ZjQWNSaWZSc1k2UkpIamVSMVhqT2xncEdGcDNCaVd5bzg5ZGEyTVBvcHJKeWhUb1djSjRtUks5VnlraTVUWU5WUmNGcjFvQzJNTzI1TVpXeFZOMTJCempLck0zTHhSWThiUEFQVGpyRDZHMWxkcGw4LWJld2dDQ3J4SElzSmw4cmp3dWlKOG5fUmdsc04?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 06:20:50 GMT"
+            },
+            {
+              "title": "Harga Perak Kembali Perkasa, Pulihkan Posisi di Level Ini - investor.id",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUw5bUI0d0hjeFJ1UjJLT29kd2M4aWxNQzZJRUF2a1ZvemhDTVh5QWNpenF0Uk1VTUczNGRNeWJBeGZZSU54RGctRUw4UWRXY3RYYTloNXBOLUt0bFpoWTJxTmxHQm5KSUw4TGFocUJuT3d6SHFFUHZPQ0x0aS0zSklvN1VCNGMwYy0zaFMtOHJFQ21S?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 00:22:22 GMT"
+            }
+          ]
+        }
+      ],
+      "timestamp": "2026-03-04T07:00:25.739Z"
+    },
+    "stock": {
+      "name": "Stock Market",
+      "symbol": "INDEX",
+      "sentiment": "negative",
+      "sentimentScore": 100,
+      "positiveCount": 0,
+      "negativeCount": 16,
+      "totalNews": 140,
+      "prediction": "Stock Market facing negative sentiment. Potential for price decrease.",
+      "details": [
+        {
+          "keyword": "stock market",
+          "positiveScore": 0,
+          "negativeScore": 2,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Jakarta & Indonesia Stock Exchange | Indonesia Finance Market - IDNFinancials",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFlrWnJ5WVR3cjFtTHE1Xy1jWmJsN2RsWUhPSDJKdnI2ODE4RFljSWJoUk9rWGRNVzJ1WGJSQ2t3eWF6UnJmaVVRYUdQLWJrcUtKOE1hX0JvQ0x5RnoxbFd1NVMzazFScEYwcUtMb015TGxXWG9LS3ZnOFBCVUlldXBUWVRiQTRpSFFtWUZwVFZMdi1CV1gtcg?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 10:38:12 GMT"
+            },
+            {
+              "title": "Indonesia Stock Exchange Issues Over 3,000 Sanctions to Errant Issuers - Polri",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUnhRQkV3aDBNT1FvSi1WcGlRaHV2eUdHZER4UjRBSWdNbnkxQmgydXo1djJMUG9ZaFBQMWs5RFpIYXFzUXYzT01VOHcxRldPNkRhQWI1cC1wVGJRS1NycC1EUVpMdnJXYXI0Qy0xRjB5eGpGNC1vZXNUUEZBQnRVM2xvT1VTX1V1RDlTQ3gxS19jMTJXMkZYVGtSbjJJcGphNGVB?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 23:40:03 GMT"
+            },
+            {
+              "title": "Lo Kheng Hong’s Stock Market Playbook Amid US–Israel vs Iran War - Bisnis Indonesia Premium",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkdmYlI3WldCVW82TzZlZTZRVnRldDNRNmVzUEw4YmN2XzRWcXhLWXQ3UGhhTTlnZ2twVWRlUW5uRV9QYWhGVTdBLUtsWWpzM3g2Z3VMVWRqN19fME5uSkJZQXprd2d6VjluVjRrd01uazNzQ1RIRXFxcF9lM0tXOFJCNzFXZGt6MUQ1UjV0OHNjdVRSdjV5blNoUS1ISlNfT3pURzRweml0TUVuV0N0MkRGSFpJaFU?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 06:00:00 GMT"
+            },
+            {
+              "title": "Bursa Saham Asia Rontok, Kospi Korea Selatan Anjlok 12%! - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHFpbkxRWEJPSW1adEVaNzViYVlkM2Z2VnFEaXpqRjcxWWtFRy16NVRLRVZ4UHY5QWUwRktyMURVLWFILXRRdDYxQkUtZXN4Yng2QWpZQnY5TE5FTWZkeUlYUmYzRTUzS2JmT1Z0OUF3THN6b2RCaHVIdGtKQXVXcHpyQVBYczJwdzYySlZUUm92Q0l4bHM1T1N3ektuejV3RVFXM0hrdEEwOVkwc05XVnRnZWJjQdIBuwFBVV95cUxNLVpXUFRYVklvNUphYUNhQTJfeGQxeFAzaTBadk9rVHdycEhuV2Q1c0ZTY1JyVXo2UXF3dlVvTVB3UU4yVEhLMXJhNVRlbG5GNkNDMWx6R0p5ZHpDV09hVGJEN1FBai14MFhjNDBXd2pNQVFjYlo0dmFKR3hzY2RxN3Jxc2hTbTY4ZFQ4M3NSbTRycVJMT1YzWDBfOUZpaE9CVEdiek9rcGxRQXlZNTlYQm5BQU9qaGQxa1R3?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 04:11:32 GMT"
+            },
+            {
+              "title": "Loveholidays dilaporkan menunda IPO London di tengah perang Iran - Investing.com Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHJGY2dlbFdEZV9ia0lOTnUtVkE1SHlBUG9qX05CNGh5WUhWSVc2VktvRmpyeGxPODlGbGd4Q1cyejVXU01jc0dUcDY2Q29GWWo1NFRTY2MwbzZCdWZ4YW5DdzJTOFFfMkF3UEgtbGFrMEFTeXZ1TjZfNEJPY3c4RWZleWtrZzFwYWI4c0xSanktS2tFS2hnTTlXSW95bWp5aV9YbzEtRUk5SzdoVHNteS15UVhHRlFGT0tRQ05UNVBtT3c?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 18:11:15 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "IDX",
+          "positiveScore": 0,
+          "negativeScore": 1,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Klik Idx.co.id/id/berita, Publik Bisa Lihat Investor Kakap Pemegang Saham Di Atas 1% - kontan.co.id",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWxrcTVTZTZkeEVnWTRBejg3WlNnRTZQNkh1NVUwZGl5NEhucGt6czFXWE03WUdTQmNYUjVOa296WlZOZDFSWF9DZHFPRkdkZ2t6RnU0WkRMWkFXNkswWGN2Rl9JSHJjRXVONWZLMUpDaFI4RkNjbFNGYnVYWjNabDN2cHV4bDFpVlNqYTYyR2d4UFVQT1Y4ZXd3MXQtM0J4LUhsc25sNUtSbi12SUdTS1RubHXSAawBQVVfeXFMTktHMkZXRWFUbDhEYTRRMHJ2YXVfUHBDLWxCdjd6RkhmX2NIa0tqaWZNVUY1NXMzeVVtU1RzUm5IY0owbFBWYVVHV2FVaWxpem1USjFvcFZVUXJQeTRQZlc2WE9uS1c0b2RQc2dOYVM5QVZyWWRHeFg2SmlVejhzS1QyZzBDZXRTOUtzdVRqWmotcmxXRWZzM3pmQXF4dF9WTnJ5YUZlM0g3SDc5dw?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 22:25:16 GMT"
+            },
+            {
+              "title": "Bursa Resmi Ungkap Pemegang Saham dengan Kepemilikan di Atas 1% - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlowbVplQk9kck43OGIzSDE4Z2dNVkNiUFZFYzZOdVpEV3BaVDM5cFlZLWNQS0F5ZjFpOVE2UGxDLVlfcXg0VW9OV1JHZTBhMDVsVl9HazJ0LU9MQ0V2QzJhVlRDNFMtend3VzhoOTktelFWMFEyZV9Fa0VsWmVUelpqRnc2MWpBMVdIdXVhVThNWUtBRDltOUdOZlgwSXhJeFM3WDViYmtIR1NSWmRvU0l6YTVpZnpaZ3dsUHhTWmxjd9IBxwFBVV95cUxQTUw5SnZIMkoxMm42VDNKcXFwcVZJZW5JVFpKeGl2SElOMllGSEY2aWJhekxhU3AtaGhSWURUalpKaF9kR0VwWkNRLUpjSnhRYm5VLVpnR3d3LTJLQm5Pemt0ZlMzWl9wMEFvMmJESWJNNGh2LWNUb1ozSklDdHpEc1hoTGhmTW5tNlZ5dDZVeTFoN3c2RE1DLUlIa0J1cmJyT09keEljQWxrWW1WalZMMklhSm13Z0JkcW14c3pRY3VhdTZVUURn?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 11:15:37 GMT"
+            },
+            {
+              "title": "BEI–KSEI Buka Akses Data Pemegang Saham di Atas 1 Persen ke Publik - IDX Channel",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWlLYnc3akdRX1dNcUhHQV9RUkdVdHY2QkJ5Q04wTU1XVlZYN2F3QzRxTHhRUDFvMVBGalJSaHNkVzJxVlA5YldXNFNacWZvdHpYbzJMS3N6QVZ1b1p1R2VwUFVmbjlRUG1sb0dRSEJneThCN1N6bmZnT3pyT24xc3IzUEliRVJLOUx4NlNGYmVja1FMR2ktcjNpTXBpbXNJVmhxX1hLWdIBrAFBVV95cUxNVUtzbnRyMWNIQW1uLWVDU1NFWDFXck94NVNTT0RpTlVnbXd4N0NpS0tVWTItQTR6OVptaGxqM1g0TDRPYzgtTlRDN1pKdlF4TGY0ZWU2NmR6Y3ZhZnVlTnRYYTc0VHJWWDRRbmZfbWl1UmRTMkF2clBmNThvcDJ2anJwRExxczZabE03OEQ5WVJMNWJyc1pRdGdIRzFoeHJlM3dacFdmb1Zjbl9x?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 10:12:00 GMT"
+            },
+            {
+              "title": "3 Cara Melihat Data Kepemilikan Saham di Atas 1 Persen: Resmi KSE dan BEI - Suara.com",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkVZbmJYbjNsQ21qanpGSjNYVGpaWUlYdE1tQ2ZzUmpRYXJjSkx3OXhHcllmTUN5cTVqYVVvRFlaOVZTZ2JYTEw2YmplM2ZseGNKUV9yZVFxVUJzSTRSdlVNTy1iZ09Fbl9GN0YzelRaM2pVQ0Y4aWp4aTA2emIzTXdYUG9HdlVQRzZxZnVCdFUxajBRTHM0bndZbGRrZmxlX0RKaU9lYXVkZVBCMmUzd2RIbnBqNW5BSlNv0gG7AUFVX3lxTE1vRjZLRThxWDNONDg5NTBEZnhRZHc4dFBNb0ZjazZhX21ENU14TzBTTlhaQXBHTnRzWkxTYmstZFFnbWVuOFc3RWZrZEJlYmxkaFI5TGZsRGZ0T3ljLWZ2R3ljd2lkc0loYk1JSHVubnJoVGh6QWVmX2NkQWMtaE80elM2RUE2V1dVT04xa3NyWW9GYllTazJad3Z1TVc2Skd2RFVnLWxKdnZvYTU2Ujk3cUQxUEMzMG5XMDQ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 00:30:40 GMT"
+            },
+            {
+              "title": "Harta Karun di Tengah Badai: Borong Saham IDX Value30 Sekarang? - Kontan TV",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0VWhHUGI5VUJfY20yNzMybnN6Z3VxZG9RaUNHQXJoZ3AzUEpCNk00OF8yc183S0FYQlhKWjdMQkIzQ2RFVXFkbVI0ZFdvbTV6NWlZ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:00:00 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "NYSE",
+          "positiveScore": 0,
+          "negativeScore": 0,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Birchtech laporkan putusan pengadilan $78 juta, selesaikan listing NYSE - Investing.com Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1VMTzFfQkQtODRYaFFFMnpXNFNpT1FjTjJiZTdZN2tjUXBnakZmVnZXNDB3dFJSaXFaVm9DSHBzU18wYTFpdUpJSTNjcGFXYkwzLWlHQmFUZWFDT1lqZHJjbThzMTZ3TTRVcFd0WDMxM01BOHRJZEVDQmhTZHBLVnN5Rm1YZlRSbWNUYmJRUldzaWxpYjJTUWdNUkdETlRHTTAtOGZiSVRuQXNnMUdIM3h4YldVS3QwTVRDY0dsWnNzaVU?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 13:55:34 GMT"
+            },
+            {
+              "title": "NYSE Content Update: Sunbelt Rentals Marks NYSE Listing with Opening Bell - Tirto.id",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTUzM2wwbmg3VVFxVG15c0xINnE2ZHBPMnhILUlJLW5QMHp5Zkd1Y1NxaDdiQzJTbEFDcHBhZ3RKTDlCQXVjeHJtNTZPWk5EaUlPWTZjSElCLWRzeTlLU3lUNXp2cC1aVkJ5ZnNITVRkMG0xMXdLTWpFcnZTX19Dd0paVU4yeGltc3B2eGpmVFRJcVhQNXJKRlR3?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 14:07:00 GMT"
+            },
+            {
+              "title": "NYSE kembangkan platform on-chain untuk trading 24 jam - IDNFinancials",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWVvZWJRNDY0UVNYRms5NWc3a2xqYkNyVk00Ujk3Y1FCbmxMREJGWGN2dWtLY1QwbzltQVdmZkpfUm5pZWxJbFZ5NjdZckpOOWVVaWUzRG5QbDkzdExSSHpCSWx3bTRyTGhSRFU5d2lnSWpZRXRJWHIyUDFIVFFsbzY1MUNKRl9LdzNvbUVMT2FaU2hNYmNELWNmNU9Ba0U?oc=5",
+              "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Chart dan Harga Saham JPM — NYSE:JPM - TradingView",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MOXpQOWRNY1JscEh6VHlXMHByLVBRSGVCUHpoNUNiLTdOUE9Sd2VBM1pXVVh1clRlNEVMdkM4V2JiRGpjZTFTU25hX3A2YVNvSzBBTXhHQQ?oc=5",
+              "pubDate": "Wed, 28 Jan 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Dari NYSE ke White House, 3 Sinyal Bagus untuk Crypto Minggu Ini - INDODAX",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kN25uRjJRUjJKblJGVmpVVi1hY3VnVEswalFlU0pVQjhaVmRBUFpPaEloMVZuc3dXYlg4ZzNKbjVSWUt2bVBRNmdiN3c1UzEtZzlBTzZiblVWbEtGb3dlOFJhYjQydUMzWGJrbUkzbFBKczBU?oc=5",
+              "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "saham",
+          "positiveScore": 0,
+          "negativeScore": 3,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Saham BBCA Nyungsep di Bawah Rp 7.000 - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0RER0JRS0dYenB3V0FOTGIwN2tncTVHODdxOEROMHFLZ01oaVhwWGpIeW5USGJoX1JxM2RGRlFobkNfckxRWGc3dkdrODlXTDJyYXJnRlNRQ1hvUkJ4OHJKRVVrNHhRNnRDZmpwalFLLUE2aXBaREN1WnhvSENvNEdnQk5aSWdZX1NmQlREQ1dZVjMxQUlHNjdiazdEM0nSAaQBQVVfeXFMTVMzWEUtWmlzSWNvM1Zfa1BZMU50enB6OU90OHd0U1BWM1dpcGI1aUROTXdybDJUblNBNXp4b0d3a25aRFp0WGJCcmVKVFc3M04tZ0VYcDlJUzNaX2hZb1A0RDhKazQ4d2JaYlJxcTlFWWtheUl3Ulgtek0wSThJS3VkOHJRSGNmZGt3SzIzdXpyYV9GV29oVHJVLWowVF9XTWQxMTg?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 05:16:32 GMT"
+            },
+            {
+              "title": "Terkuak! Belvin Tannadi, Andry Hakim & Bekti Sutikna Pegang Saham Ini - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWM0X19EbnNtbkZaX005ZUJobHViSXdvZ2czanhFel9WVFllSTlSOGNGdjBkeVhQVUlBY3Blb3p2Z3pfRGQ3ejFzTVI2S2IzdVQzbm5TSDV5OXpDaWJPRWc1elE0eVp6NEJVZnlaM182ZnRoeDZwc190a1FUaVRBdGE3eDFYdEFMTHJBV0xCU1REa294eTJrMUJHTE90TUdZWnpuSmtJN2FPM1BYdmU2Y1NFWVdWX081dWhEUmZybUZSOUdMWEHSAcsBQVVfeXFMTmZ6TE14SllkMW40VzVHejZkVkFXQWRhazhONkRoXy13LXV6REpzSlVGY0NzLTllNnlXTkZubDNsM2I5MU42d28tb3RrTkJYa1RxMzVRX0NEdlNheWVXNXlLNTNDeXpiWmc5b1BIeFlMNDlPM1F6SG5xdl9BajZScUx6bmlHOVY1VFU4ZG00NVVOei1YZWV5cVJGcFpPXzcyMVAtaHI1aS1TNlNjZGpLODhFcHBaUHRxZzRxUUt3a21vVGR0NkstbVVBTFk?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 03:45:23 GMT"
+            },
+            {
+              "title": "Investor Asing Borong Saham RI USD 203,5 Juta, Terbesar dalam 4 Bulan - kumparan.com - Kumparan.com",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzI4cW1UWS1EQXBiajRTZk9jZnU5bFNWT0pWVm42WEFaRWVSODE0VmRWSE1RemJZb3BRc3ZHRDVPNW94RzRjT1loZGhqZTFqQmM1aVF4aVdMekhGZFVhbnRsek1YeHdScGJqSlhldk5OUWN2Z2VfSXBBLV95d3BCby1nNnhNZkt1dGg5QVcyRDI2LU00T2pUNHFnemQwNzByM2t5UldvVVdmM253ckh1TXhpQkhYTjTSAb8BQVVfeXFMT3ZMWmcyWWJRSkRac191SDlONU5kZTlQcWFIUE14Y3pkMlNYa2JkclFhQzRiMHJ6ZDUxdTVxTTEyelYyUy02YUVPNzZfdkJabVpzVDJNdzJpcUliNkVpV0Rocks5VGFpR0pYTmhuYkFiYnpmdldfYV9VMjNWZ1BUcXMxRVVTdElkdnRGdmcyLU5OQlFtU2FKTXFleG01RXlOR3hfNk0tVFh0UXYwRnFBcDNabzRzQ1ZFRENmNUR0RnM?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 06:30:00 GMT"
+            },
+            {
+              "title": "Duo Investor Raksasa Serok Saham BCA (BBCA) Kuartal I/2026 - Bisnis Indonesia Premium",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUE9iOE80VEFuWDhFX24yZC1RajB6LWRJZTlNT1FLQ1JWQ0h2YklabW1oaHB2cEhvRUpiTDVmQ2tnQjlSQU53U2FRUC1Ndld2LTdyX0pXYjJ4NTdxRHVoUlBxcWdYSjBqZmwyTHB6bTJ1cEZuUWlhQzN5bnNsUVdiM1EzTlBnX2NoY3o0QmdYWGVtY3NzUFVXWml1TUVUZElPellzNDRtMVVXQ3Vz?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 06:57:00 GMT"
+            },
+            {
+              "title": "IHSG Lanjut Melemah, Asing Terciduk Kompak Serok 10 Saham Ini - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDRDQjdqQjJ0N05Cal9qSmo2MWhXWEZYTXVRTFltSE5jcElxOTFVeHdqNVVUalY2OWw3XzZIQWJRaWlNMUpBeVdGSlRRYzhzRTFMOW15dWRtaHR3YU5IbGtaZVJYTDRjM3dCNGNSR2ZLeGxaS21Rb1FLTVFQSWIxTzJPc2lnNUJBYV9IcVFQb1VkSnVZekQ4REFMRW1kMURTOC1raVRuZEpld3BQNDUybU9DNFZIYnRFMFhQVVpEd9IBxAFBVV95cUxPQkxlU3FlY3NtbndPdEhpbWRocDJmV21OOHkzaTU1NzBISEljSm94d3dEdDRITl9XQVZfTmpsWnVXbHNKTElsNzVESFpuaFE4Y1R5VGx6R2RjWXF5NlVlNDVjYW1uVXlfQUtRVWZZUDkxdmJKZGMtNmNJSTg3NEtKUHZQSWxFNUlFMlo0LVdNQjA3eFZQLXVrRGE0Y2o0dTlKdWpvcGRkVDFxMHRzdjZnaENSejdfODRRMTZfSXEwWWZtMEZa?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 00:49:17 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "IHSG",
+          "positiveScore": 0,
+          "negativeScore": 5,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Penyebab IHSG Anjlok 2,5% Lebih, Saham Konglo Berguguran - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFpwdUMzRS0ta3BaZU8wLWRVMmxub0kwXy1idktZWXpEMV90emh4em0yMWNQVmFwOFlGVlJ2YnZKZ2d1V1V1ZXpEVE1pbmdRRWRfeW91TkN6RlNLSVFFemExcUZEcV81YVJteUtENWE3Nm80bWI0Q3oxY3lsSUgtRW9GNjR4WWV6UUlKSE1ELU1JQ1k5NktFWXJCN1JiSHQwdXFqdXBXUE1hWVdGbjZPa1R1ZUNVQdIBuwFBVV95cUxQOVU0VnJsbFpJLXhHYjNaOTlXcll2RlN1RUhSQkw4cFYxZHp0aHJQbDRsWXczdWN6ZXcxOHJ6SjZOSTBKWDdhWEVKOHhWV2tSUTFuQTZpdVBkbmo4LWV5N1BtZVBYSmtPMF9Xa002ZGdjeHJYVmtrbGVCaTVoUTY0ZHFVdWY5cXpZbHEwZ3A2eUI3YXBzZkxNRWlJMmNhRzFCZnVrMndHeEstbHEyOHptNzFLZ0YyTlVOeTRZ?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 02:41:32 GMT"
+            },
+            {
+              "title": "Rekomendasi Saham Tim Analis Bareksa: INDY, ADRO & BULL, IHSG Masih Dibayangi Pelemahan - Bareksa.com",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV3BpeEdYbThMbXBRMk1iS2liVThpZmVTSHpnTS1LdW5Rak1PMlU0Umxndm1QZ3JnZEd6b2hrU25uV1M5QXJGN3hBV2t5VWtXZTdrV25ERnQ4UXpYQ2diVUpCYjRIVWF0XzBXa0hZa1ZjcHZ4N0FQN2gyNlBibGVQay1oZm41XzN2ZE0zUXQ4dEN5STItYkNWUWt5QUU3YVFQZ1FCcE9xVThIWWtmVmZqc2N0cTUyWG5hMThBc251T2FYdE9ReXJUOGV3?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 03:18:01 GMT"
+            },
+            {
+              "title": "IHSG Hari Ini: Koreksi Pasar, Saham Blue Chip Jadi Sorotan - Ajaib",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2pkS2lDOXctdEJSRV9EOXAwOS1pTDAwUXkwVmVvdUI2bTRndzNBamZNRUVGSEVKTG5TakI1Y0V2QnpyOFA0QTFvV3U5TFpNSWhPOHRsTTRsYXhJcVlUNC1IRzY3M2ljWVlHbHJSd3dkeWZwMVF0R29kQnFpWF9hbmx5Q2JzYV8xQ2c5MXJDeGd4WUpvbEE?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 05:33:16 GMT"
+            },
+            {
+              "title": "IHSG Turun 4% Lebih di Sesi 1, Ini Penyebabnya - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnZYa3VVY2ZmT1JkNVc2SXFKTGZ2aUo5LVFLLVRHU2pMTGREandDazZnd09GbUY0YlpHMG10ZXdaYVNJOHRHVzRsd2ZmeTZFbGczUVhjYjJFbjJvLUQ2UHItNVpPRG12T1g1S3J5VWZBNWdObElUNjhPZzRSc2RsUUZPVTAyVjdCY3pIYWV6NmE5VEg0OGptNGpGTkhCODRZMm5rT2NoellnQdIBrwFBVV95cUxPMzUtQTRmaDJWNzRhMWFvVHptMVZBY1lhY2o3cjVsSGV5RjRsODM3cmNEdHBtd0F0YTBDZnpUVnNNUVBGdUVVa2x6ZGNLcHoybG5DcC1RZUptLUxIdHZHaEIwcEZGUTVNTEluQW90WmUxRWVwa0VVTnozYXNMLWEtNEVfX0NjLVQ4WEFMQnBid2Zua3BJLTBrNTBPaFdKMVc1NkdVVEJzOTNDZk9mVjVV?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 05:49:02 GMT"
+            },
+            {
+              "title": "IHSG turun 2,65% imbas perang AS dan Iran, saham energi melesat - IDNFinancials",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0IzekpYZW1sSW53ZVgtdklOb3phMFh3d25xck16d3VHMkVfcWJ2dUNJblNOYkNBZUZXcHMyYjN3R3NLLVVmXzhIclZBelhHRzJHdjhVUmhxRzVoVGU5QXNsQmN3SmZQVXhoZm1UTldpVFdhQXhTcl9TZzhMWjBYUkQ1T2lBOWVkUkcyVFNnT2txWGpLVU1pU0ptLVJQUHc3bU9UR3NNMkU?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 10:42:22 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "Bursa efek",
+          "positiveScore": 0,
+          "negativeScore": 3,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Bursa Resmi Ungkap Pemegang Saham dengan Kepemilikan di Atas 1% - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlowbVplQk9kck43OGIzSDE4Z2dNVkNiUFZFYzZOdVpEV3BaVDM5cFlZLWNQS0F5ZjFpOVE2UGxDLVlfcXg0VW9OV1JHZTBhMDVsVl9HazJ0LU9MQ0V2QzJhVlRDNFMtend3VzhoOTktelFWMFEyZV9Fa0VsWmVUelpqRnc2MWpBMVdIdXVhVThNWUtBRDltOUdOZlgwSXhJeFM3WDViYmtIR1NSWmRvU0l6YTVpZnpaZ3dsUHhTWmxjd9IBxwFBVV95cUxQTUw5SnZIMkoxMm42VDNKcXFwcVZJZW5JVFpKeGl2SElOMllGSEY2aWJhekxhU3AtaGhSWURUalpKaF9kR0VwWkNRLUpjSnhRYm5VLVpnR3d3LTJLQm5Pemt0ZlMzWl9wMEFvMmJESWJNNGh2LWNUb1ozSklDdHpEc1hoTGhmTW5tNlZ5dDZVeTFoN3c2RE1DLUlIa0J1cmJyT09keEljQWxrWW1WalZMMklhSm13Z0JkcW14c3pRY3VhdTZVUURn?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 11:15:37 GMT"
+            },
+            {
+              "title": "DPR Sebut Negara Bakal Ikut Genggam Saham Bursa - detikFinance",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXZkak1XSWJFcTZNOVo0VjBTczU2R1BTTWxhZXplWmk0TkZnWFVlUDNpUDlhcndoVDJOYmVxR0VZVWNCWDdvanZWYUdUeDZfWUxnT1NJdXlKSUdKOXNOYTJrVmttWXJZLTlVRGVVVzdzZkhGWUViamhTdG5yVHRSZ0JIekNWRE15aTJhQjIxR1VtMkdfRV85dktReUpPYjJI0gGmAUFVX3lxTFBabzRuZnJIZTU5bE56cXNlTXplS0hBVEk0MlJEY0Jnc2VmcHRRdmcxTFRnelllVlhINVhXbTF2ODZxR1hNZXNwQ3dDbkM1LWZzRW92aE80NEk0ZThnUFA4Y0dnNEpUSzcwZXVzbGo2RmdieEZEOUp0RloweXh6WC04R1ZKQzFieFlMUWRIeDJmRTRJQnZqSjZWc3hVckZBREVSZ0lhanc?oc=5",
+              "pubDate": "Tue, 03 Mar 2026 06:21:05 GMT"
+            },
+            {
+              "title": "IHSG Turun 4% Lebih di Sesi 1, Ini Penyebabnya - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnZYa3VVY2ZmT1JkNVc2SXFKTGZ2aUo5LVFLLVRHU2pMTGREandDazZnd09GbUY0YlpHMG10ZXdaYVNJOHRHVzRsd2ZmeTZFbGczUVhjYjJFbjJvLUQ2UHItNVpPRG12T1g1S3J5VWZBNWdObElUNjhPZzRSc2RsUUZPVTAyVjdCY3pIYWV6NmE5VEg0OGptNGpGTkhCODRZMm5rT2NoellnQdIBrwFBVV95cUxPMzUtQTRmaDJWNzRhMWFvVHptMVZBY1lhY2o3cjVsSGV5RjRsODM3cmNEdHBtd0F0YTBDZnpUVnNNUVBGdUVVa2x6ZGNLcHoybG5DcC1RZUptLUxIdHZHaEIwcEZGUTVNTEluQW90WmUxRWVwa0VVTnozYXNMLWEtNEVfX0NjLVQ4WEFMQnBid2Zua3BJLTBrNTBPaFdKMVc1NkdVVEJzOTNDZk9mVjVV?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 05:49:02 GMT"
+            },
+            {
+              "title": "Investor Asing Diam-diam Borong Saham Rp3 T Saat IHSG Merah - Bloomberg Technoz",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnpIUDRiS2pjLV9IbGxuUG85ZEZyT2pfQUM4anJwbVd5U3RNTDFkaXZYSmpxNUFHcGlpMUhCVzNRbVlNS3NqLVZPLVEzWTRpVTV1UWZ5aHB3MTFrWWxvRDk4d2N6VHB4SE50bWRrUXZnTzk4NXhjX0Jub1hMbm1YTngteHowUG5GSnhpS01VR0R6S3B2SHFfMlhqMWNOQkJQRXY0OUQwZlEtN3pZZ1ZySA?oc=5",
+              "pubDate": "Wed, 04 Mar 2026 01:20:00 GMT"
+            },
+            {
+              "title": "Perdagangan asing stabil, net buy 35 juta lembar saham - IDNFinancials",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUxxUlJ2Z3dWS2dLZFJhOVg2dXM2YVQ0RV9CcWdkdC1NZHE1X3FyVjlFUVBzZzFCV0N0SlpJZlBvam5ONFpkM0dGd1MzU0pWeXJZUE1rZmpybXF3aDZKQjh1SF9TLTh4TDZTUEpkcFNYMExTV25meEM0dWo5NktIVnZOUHJKR21GM3AzdTUzOEtxSTNwRXFCbE5tb3pSQQ?oc=5",
+              "pubDate": "Mon, 02 Mar 2026 15:18:12 GMT"
+            }
+          ]
+        },
+        {
+          "keyword": "market review",
+          "positiveScore": 0,
+          "negativeScore": 2,
+          "newsCount": 20,
+          "newsItems": [
+            {
+              "title": "Isuzu market share - autonetmagz",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVNYRnZTZVR2REZYeEI4X1J6cVRLQUEwN1gzN2Q0UHdldXFPbHFiYU45MlJ6ZnpyY2pVNFdXVnNZMWp4QzNvSmhQRTZKY0p3Y29QdkZMSnJuZ0pHMWhLeUxNZGx4dUFoX2R4U1c2eXJPZnltYzBnQ2o5Z1h1VTB4Mk9tUUExNjY0TmI4MWltaFQ4OUNFYXdGcnc0ZWdWVlJwb2NqSWhSaG5DYkNrZWtoTV9ab29Bb2stejE2Q2tn?oc=5",
+              "pubDate": "Sat, 28 Feb 2026 03:55:24 GMT"
+            },
+            {
+              "title": "FTSE Tunda Index Review Saham RI, Ini Respons BEI - CNBC Indonesia",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHJWQWR4TnNDZzN3amdZNUlTNjBrYXQ0amh2bm5MT2tJRk15aGxPWnI0Y2UxaFdpV2VnWWlFMkpZZndFTnVOVWlvT2xlLUJEclhiY0E1UGZka2QxOGpKZG1aQjY5cWlsSGowakMtQU5MWnFEeGF0Y3dqNFc5ODBpZlppV213cWxlTlBadHRvUDFmT05PM2hIWjdQeXhsdEZocUpGQWx1RnNNWms5STVB0gG0AUFVX3lxTE5jZWxtdU0xUUFnZjZGYWhwOGptM0ZiLVpSNS1RanludXllVkxlQWM5ODFCaDJmZ296N3ljUEJQN2VTbTF1dDZTUWR0VVNkYWUwNlpxa0NzcnBnZkh6b1RPSGZYTUNnTm42aEJlcFc4NC1NMjZ2RWYtTUI3N1pBeVo4VGE1dlUxOUtUS1dZSVhTVm5BZzQtLWVTUlM3RzBHaWVnRXJCd1dhb0NMemd1eXgtZ2l2Yg?oc=5",
+              "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Moody's Beri Rating Baa2 untuk Global Bonds Indonesia - Market - Bloomberg Technoz",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXhycTc3aXVhbVBDb25ZNFlkYVpzZWV3VnhoNk44NklHdDdvU2xZRVdkSFcyWC1WQ0hoeUt6THUtbXRfd0VieTFTVklacDBhSExTZDEwTS1ESEp2dUJLdXYzU2dPVzZyaGNBSm1MT2FockdJOUFfZzFESmN0QmdiNDBqeVVFMUt3cHpIMUFISEh6SVNPbnItSHNvcVZycGVSNmc5MWxYNm4?oc=5",
+              "pubDate": "Tue, 24 Feb 2026 09:15:01 GMT"
+            },
+            {
+              "title": "Susul MSCI, FTSE Russell Tunda Review Indeks Saham Indonesia - kontan.co.id",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1k2cEZ5NHpMM1pXN1lYTkUtaGpwZ05rSkdBbWM0QUVtZVpnenh2aG1fZnUyRmo3Z1ptdW9YNWlCUWd4Tk1aejRIM3laSWdYaWRnUElWdjBuUEowQmNZUzlMNWwtZ2NkTllRS0hUMDN3aFp5a1lpVHVjRHRWU3Z6TnNvaE5SZ251ejY2bVFmeDdSdFVUSEktdGdPONIBkwFBVV95cUxOSGVKNWVrRTJwc010NVV2Q1ZYTE1uemZwT0t6Qk9NZWZ2NWlfVkhQRS0tTlRQTmN5Z1VMbTNNRlktQy05SVdudzA2MU1PSS01TnVnbWlSeE1vZmp2ZnBjeXpzS3BlcjZHUm15azI4MjIxbEpyemU1YTJZdlh2NWxySHMtZ2xhRlFOUEJKOGE3Z3JLV1k?oc=5",
+              "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT"
+            },
+            {
+              "title": "Kenapa INDF Turun Kasta dalam Review Indeks MSCI? - investor.id",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzgzSEtLNDRNcTlDY09nY0NUTk9DUi0tRDBUMlZQUEJGRVJpWnEtMVFFbFhqa2JOUmpBd241NXFsOUIwV05WZXFURUlYRHJUaG1TRFhZQ2dzcU5yZWw5ZU8zWHh3Q1RLRW1PSTVCaC1aTXpXQjhyLXpsb1dqTFVMaDVyR0xldVVROGc?oc=5",
+              "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT"
+            }
+          ]
+        }
+      ],
+      "timestamp": "2026-03-04T07:00:37.775Z"
+    }
+  }
+}
